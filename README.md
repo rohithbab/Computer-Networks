@@ -36,6 +36,42 @@ Switch, Ethernet, Broadcast).
 ![ex 10 computer lab](https://github.com/rohithbab/Computer-Networks/assets/129184107/ce9b53c4-2a40-4064-87d3-721210918365)
 
 11.Designing two different networks with Static Routing techniques using Packet Tracer.
+![ex 11 Static routing](https://github.com/rohithbab/Computer-Networks/assets/129184107/495758c7-838d-440b-b3e2-3272687ae471)
+
+12.Design the Functionalities and Exploration of TCP using Packet Tracer.
+![ex 12 Functionalities of TCP](https://github.com/rohithbab/Computer-Networks/assets/129184107/4d8aee49-3ce7-451f-ac18-ac015eeb7e82)
+
+13.Design the network model for Subnetting – Class C Addressing using Packet Tracer.
+![ex 13  Subnetting class c](https://github.com/rohithbab/Computer-Networks/assets/129184107/7a521eec-d7b8-425e-a8f7-852bb5fdc35f)
+
+14.Simulating X, Y, Z Company Network Design and simulate using Packet Tracer.
+
+
+15.Configuration of DHCP (dynamic host configuration protocol) in Packet Tracer.
+![ex 15 Configuration DCHP](https://github.com/rohithbab/Computer-Networks/assets/129184107/740ca7f8-ee5a-4064-83f2-b6259cb08916)
+
+16.Configuration of firewall in packet tracer.
+
+
+17.Make a Computer Lab to transfer a message from one node to another to design and simulate using Cisco Packet Tracer.
+
+
+18.Simulate a Multimedia Network in Cisco Packet Tracer.
+![ex 18 Multimedia network](https://github.com/rohithbab/Computer-Networks/assets/129184107/6eafaa75-dd3f-4cfe-982a-e2e00264c9b8)
+
+19.IoT based smart home applications. 
+![ex 19 Iot smart home application](https://github.com/rohithbab/Computer-Networks/assets/129184107/e231f09a-bef3-4ae1-8fb9-8b12676d7792)
+
+20.Implementation of IoT based smart gardening.
+![ex 20 Implementation of IOT smart garderning](https://github.com/rohithbab/Computer-Networks/assets/129184107/5235509e-3213-4d8f-af99-e2647a6f94c7)
+
+21.Implementation of IoT devices in networking.
+![ex 21 Iot devices in networking](https://github.com/rohithbab/Computer-Networks/assets/129184107/e7bcdf06-b75b-41bb-a88f-b9afda17f1e0)
+
+22.IoT based AAA Local and Server based authentication configuration. 
+![ex 22 AAA Iot local and server based](https://github.com/rohithbab/Computer-Networks/assets/129184107/5f6c4573-02b9-41ce-9db0-0f7e21303a0f)
+
+
 
 
 

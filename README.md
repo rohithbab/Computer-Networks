@@ -3,7 +3,7 @@
 Switch, Ethernet, Broadcast).
 
 1)a.using hub
-![ex 1 connection using hub](https://github.com/rohithbab/Computer-Networks/assets/129184107/02c3db2c-8b68-471d-8b2e-5e674faba760)
+ ![ex 1 connection using hub](https://github.com/rohithbab/Computer-Networks/assets/129184107/b24fde86-e161-4aa5-a96a-3c8b8f4a72cc)
 
 1)b.using switch
 ![ex 1 connection using switch](https://github.com/rohithbab/Computer-Networks/assets/129184107/58e9f078-f0f6-43e9-af9f-28917ecd1d3f)
@@ -45,7 +45,7 @@ Switch, Ethernet, Broadcast).
 ![ex 13  Subnetting class c](https://github.com/rohithbab/Computer-Networks/assets/129184107/7a521eec-d7b8-425e-a8f7-852bb5fdc35f)
 
 14.Simulating X, Y, Z Company Network Design and simulate using Packet Tracer.
-
+![ex 14 Stimulating X,Y,Z Computer Network Designs](https://github.com/rohithbab/Computer-Networks/assets/129184107/2d034435-4105-4991-9eef-405d034a2715)
 
 15.Configuration of DHCP (dynamic host configuration protocol) in Packet Tracer.
 ![ex 15 Configuration DCHP](https://github.com/rohithbab/Computer-Networks/assets/129184107/740ca7f8-ee5a-4064-83f2-b6259cb08916)

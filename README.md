@@ -51,10 +51,10 @@ Switch, Ethernet, Broadcast).
 ![ex 15 Configuration DCHP](https://github.com/rohithbab/Computer-Networks/assets/129184107/740ca7f8-ee5a-4064-83f2-b6259cb08916)
 
 16.Configuration of firewall in packet tracer.
-
+![ex 16 Firewall](https://github.com/rohithbab/Computer-Networks/assets/129184107/4e16503d-4b59-4909-b0ef-f5e0a62df5ea)
 
 17.Make a Computer Lab to transfer a message from one node to another to design and simulate using Cisco Packet Tracer.
-
+![ex 17 Computer lab](https://github.com/rohithbab/Computer-Networks/assets/129184107/2081a680-75a4-48f3-ba94-63d32b332567)
 
 18.Simulate a Multimedia Network in Cisco Packet Tracer.
 ![ex 18 Multimedia network](https://github.com/rohithbab/Computer-Networks/assets/129184107/6eafaa75-dd3f-4cfe-982a-e2e00264c9b8)

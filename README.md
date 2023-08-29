@@ -79,7 +79,7 @@ b)UDP
 ![ex 23 Udp](https://github.com/rohithbab/Computer-Networks/assets/129184107/68dc0b83-e4cf-476d-b30f-d4a3a7b0d008)
 
 24.Network layer protocol header analysis using Wire shark – SMTP and ICMP.
-a)STMP
+a)SMTP
 ![ex 24 Stmp](https://github.com/rohithbab/Computer-Networks/assets/129184107/704a4bd1-9bc2-4d83-a898-f2806dd330da)
 
 b)ICMP

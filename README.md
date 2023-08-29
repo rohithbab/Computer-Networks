@@ -71,6 +71,29 @@ Switch, Ethernet, Broadcast).
 22.IoT based AAA Local and Server based authentication configuration. 
 ![ex 22 AAA Iot local and server based](https://github.com/rohithbab/Computer-Networks/assets/129184107/5f6c4573-02b9-41ce-9db0-0f7e21303a0f)
 
+23.Transport layer protocol header analysis using Wire shark- TCP and UDP. 
+a)TCP
+![ex 23 Tcp](https://github.com/rohithbab/Computer-Networks/assets/129184107/34dc8557-d3ed-4a74-a05b-985c91c25b4f)
+
+b)UDP
+![ex 23 Udp](https://github.com/rohithbab/Computer-Networks/assets/129184107/17fe5d2f-9458-49bf-94d1-ce0e315c6597)
+
+24.Network layer protocol header analysis using Wire shark – SMTP and ICMP.
+a)STMP
+![ex 24 Stmp](https://github.com/rohithbab/Computer-Networks/assets/129184107/704a4bd1-9bc2-4d83-a898-f2806dd330da)
+
+b)ICMP
+![ex 24 Icmp](https://github.com/rohithbab/Computer-Networks/assets/129184107/1f64a038-b2f5-4172-b4d3-de1a7ea9a067)
+
+25.Network layer protocol header analysis using Wire shark – ARP and HTTP.
+a)ARP
+![ex 25 Arp](https://github.com/rohithbab/Computer-Networks/assets/129184107/3de14e1d-d737-4700-a865-e89ce81eddec)
+
+b)HTTP
+![ex 25 http](https://github.com/rohithbab/Computer-Networks/assets/129184107/62c2d982-c151-4356-abc2-89b51d9fbed3)
+
+
+
 
 
 

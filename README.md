@@ -92,8 +92,11 @@ a)ARP
 b)HTTP
 ![ex 25 Http](https://github.com/rohithbab/Computer-Networks/assets/129184107/2fd62880-b9eb-4287-9c8e-9dc655d80261)
 
+26.Implementation of date and time display from client to server using TCP sockets in java/C.
+![ex 26 Date and Time JAVA](https://github.com/rohithbab/Computer-Networks/assets/129184107/927ffd71-c77e-42d7-9804-632e6f54d745)
 
-
+32.Implementation of Bit stuffing mechanism using C.
+![ex 32 Bit Stuffing](https://github.com/rohithbab/Computer-Networks/assets/129184107/e241ae07-73ac-4481-898f-718a9b8947a8)
 
 
 

@@ -7,4 +7,6 @@
 3.Build a network of 6 computers ,which are connected through a hub.Provide,proper configuration of IP addresses and show that the communication between any various computers at the same time .Analysis of network with CSMA/CD and CSMA/CA.
 ![test question 3](https://github.com/rohithbab/Computer-Networks/assets/129184107/2450f35b-ec12-450e-b847-47c1d1b2be0e)
 
-4. Using Wireshark ,Capture and 
+4. Using Wireshark ,Capture and and analyze the Packets that uses ICMP for different header fields and payload of the concerned packet.
+   ![test question 4](https://github.com/rohithbab/Computer-Networks/assets/129184107/1be1a727-0777-4380-ae46-2e016cdd2195)
+ 
